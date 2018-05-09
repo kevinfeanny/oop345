@@ -1,0 +1,4 @@
+﻿  w5.cpp
+c:\users\kevin\desktop\oop345\w5\w5\w5\w5.cpp(29): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  w5.vcxproj -> C:\Users\kevin\Desktop\oop345\w5\w5\Debug\w5.exe
+  w5.vcxproj -> C:\Users\kevin\Desktop\oop345\w5\w5\Debug\w5.pdb (Full PDB)

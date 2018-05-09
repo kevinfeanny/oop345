@@ -1,0 +1,24 @@
+﻿  w7.cpp
+c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(69): note: while compiling class template member function 'void w8::DataTable<float>::regression(T &,T &) const'
+          with
+          [
+              T=float
+          ]
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\w7.cpp(37): note: see reference to function template instantiation 'void w8::DataTable<float>::regression(T &,T &) const' being compiled
+          with
+          [
+              T=float
+          ]
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\w7.cpp(31): note: see reference to class template instantiation 'w8::DataTable<float>' being compiled
+c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(56): warning C4018: '<': signed/unsigned mismatch
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(53): note: while compiling class template member function 'float w8::DataTable<float>::sigma(void) const'
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\w7.cpp(42): note: see reference to function template instantiation 'float w8::DataTable<float>::sigma(void) const' being compiled
+c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(49): note: while compiling class template member function 'float w8::DataTable<float>::mean(void) const'
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\w7.cpp(42): note: see reference to function template instantiation 'float w8::DataTable<float>::mean(void) const' being compiled
+c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(85): warning C4018: '<': signed/unsigned mismatch
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(83): note: while compiling class template member function 'void w8::DataTable<float>::display(std::ostream &) const'
+  c:\users\kevin\onedrive\desktop\oop345\w7 - kevinfeanny 045050036\w7\w7\datatable.h(101): note: see reference to function template instantiation 'void w8::DataTable<float>::display(std::ostream &) const' being compiled
+  w7.vcxproj -> C:\Users\kevin\OneDrive\Desktop\oop345\w7 - KevinFeanny 045050036\w7\Debug\w7.exe

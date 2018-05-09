@@ -1,0 +1,7 @@
+﻿  w3.cpp
+c:\users\kevin\desktop\oop345\w3\w3\w3.cpp(23): warning C4101: 'width': unreferenced local variable
+c:\users\kevin\desktop\oop345\w3\w3\w3.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  c:\users\kevin\desktop\oop345\w3\w3\w3.cpp(46): note: see reference to function template instantiation 'void display<std::string,double,5>(const std::string &,const w3::KVList<std::string,double,5> &,int)' being compiled
+c:\users\kevin\desktop\oop345\w3\w3\kvlist.h(53): warning C4715: 'w3::KVList<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,double,5>::find': not all control paths return a value
+  w3.vcxproj -> C:\Users\kevin\Desktop\oop345\w3\Debug\w3.exe
+  w3.vcxproj -> C:\Users\kevin\Desktop\oop345\w3\Debug\w3.pdb (Full PDB)

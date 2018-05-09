@@ -1,0 +1,9 @@
+﻿  sale.cpp
+c:\users\kevin\desktop\oop345\w6\w6\w6\sale.cpp(16): warning C4101: 'dummy': unreferenced local variable
+  Generating Code...
+  Compiling...
+  w6.cpp
+  product.cpp
+  Generating Code...
+  w6.vcxproj -> C:\Users\kevin\Desktop\oop345\w6\w6\Debug\w6.exe
+  w6.vcxproj -> C:\Users\kevin\Desktop\oop345\w6\w6\Debug\w6.pdb (Full PDB)

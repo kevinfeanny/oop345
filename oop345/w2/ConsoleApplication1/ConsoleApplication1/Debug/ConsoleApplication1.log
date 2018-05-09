@@ -1,0 +1,4 @@
+﻿  Text.cpp
+c:\users\kevin\desktop\oop345\w2\consoleapplication1\consoleapplication1\text.cpp(80): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\kevin\Desktop\oop345\w2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\kevin\Desktop\oop345\w2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
